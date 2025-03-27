@@ -1,1 +1,3 @@
-# CPP
+ C++ Repository  
+
+This repository contains a collection of C++ programs covering various concepts, ranging from basic syntax to advanced algorithms and data structures. The codes are structured into different folders based on topics, making it easy to navigate and understand. Topics include fundamental C++ concepts such as variables, loops, functions, and object-oriented programming, as well as advanced concepts like dynamic memory allocation, STL (Standard Template Library), file handling, recursion, sorting, searching, and data structures like linked lists, stacks, queues, trees, and graphs. Additionally, there are implementations of common algorithms, competitive programming problems, and system design-related concepts. The goal of this repository is to serve as a reference for learning, practicing, and improving C++ programming skills.
